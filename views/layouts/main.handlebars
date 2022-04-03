@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{> links}}
+</head>
+
+<body class="grey darken-4">
+    {{#if session.loggedIn}}
+    {{> navBarLog}}
+    {{else}}
+    {{> navBar}}
+    {{/if}}
+    {{{body}}}
+
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <!-- Compiled and minified JavaScript -->
+    <script src="javscript/script.js"></script>
+</body>
+
+</html>
