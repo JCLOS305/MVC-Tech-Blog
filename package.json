@@ -2,16 +2,17 @@
   "name": "mvc-tech-blog",
   "version": "1.0.0",
   "description": "CMS-style blog site that can publosh articles, blog posts, personal thoughts and oppinions",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JCLOS305/MVC-Tech-Blog.git"
   },
   "author": "jclos305",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JCLOS305/MVC-Tech-Blog/issues"
   },
@@ -30,5 +31,6 @@
     "mysql2": "^2.3.3",
     "reading-time": "^1.5.0",
     "sequelize": "^6.18.0"
-  }
+  },
+  "devDependencies": {}
 }
