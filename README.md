@@ -1,6 +1,4 @@
-# MVC-Tech-Blog
-
-# E-commerce-Back-End Created by Jeancarlos Mulet w/ 🙌 The University of Miami 🙌
+# MVC-Tech-Blog Created by Jeancarlos Mulet w/ 🙌 The University of Miami 🙌
 
 ## Description
 
