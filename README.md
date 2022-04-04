@@ -77,7 +77,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 `npm start`
 
-![SCREENSHOT1]
+![SCREENSHOT1](https://github.com/JCLOS305/MVC-Tech-Blog/blob/main/assets/images/screenshot1.PNG?raw=true)
 
 ## Testing
 
